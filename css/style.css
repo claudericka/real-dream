@@ -1161,6 +1161,7 @@ width: 100px;
     -webkit-transition: all .4s;
     transition: all .4s;
     margin: 10px 0;
+    height: 100%;
 }
 .price .item .type {
     position: relative;
@@ -1948,4 +1949,9 @@ width: 100px;
         text-align: left!important;
     }
     
+}
+
+/* ======= Wedding ======= */
+.owl-stage {
+    display: flex !important;
 }
